@@ -1,2 +1,2 @@
 # AndroidBasics
-Android基础
+这里记录一些Android基础知识

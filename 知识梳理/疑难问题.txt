@@ -1,0 +1,2 @@
+1.EventBus在点击事件中register崩溃？
+注意需要使用MainActivity.this而不是this，直接使用this获取到的并不是Context的对象。
